@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on 42 school's projects<br>🤝 I’m looking for help with everything related to coding <br>🌱 I’m currently learning C++ and other computer engineering<br>💬 Ask me about anything<br>🇮🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I'm fluent in italian and english<br>🇫🇷 🇩🇪 I'm learning french and german<br>🇩🇰 I lived in Denmark for one year<br>⚡ Fun fact : I have big feet
+🔭 I’m currently working on 42 school's projects<br>🤝 I’m looking for help with everything related to coding <br>🌱 I’m currently learning C++, Angular and other computer engineering<br>💬 Ask me about anything<br>🇮🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I'm fluent in italian and english<br>🇫🇷 🇩🇪 I'm learning french and german<br>🇩🇰 I lived in Denmark for one year<br>⚡ Fun fact : I have big feet
 
 
 ## 🌐 Socials:
@@ -16,9 +16,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=afraccal&icon=4&color=0)](https://visitcount.itsvg.in)
